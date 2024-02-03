@@ -1,0 +1,805 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/simulation/modelsim
+vbinarization
+Z1 !s110 1703239290
+!i10b 1
+!s100 @Ge^Z8lYQ4WWX8F8Tjajf2
+IY4Q`PL]cWmloRY43TN?SJ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1703228340
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/binarization.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/binarization.v
+L0 2
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+Z4 !s108 1703239290.000000
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/binarization.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/binarization.v|
+!i113 0
+Z5 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vclk_div
+Z8 !s110 1703239289
+!i10b 1
+!s100 GBCOgDg9SNQ>IZ8?US[kG0
+IU]HEW9TT2Jd<azBF85haR0
+R2
+R0
+w1700233600
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/clk_div.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/clk_div.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1703239289.000000
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/clk_div.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/clk_div.v|
+!i113 0
+R5
+Z10 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vcmos_lcd
+R8
+!i10b 1
+!s100 K510PPVP5GB01@RBSe1zf1
+Ia@XoJz^Ve;FH`jZYKo0ek2
+R2
+R0
+Z11 w1703237929
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/cmos_lcd.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/cmos_lcd.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1703239288.000000
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/cmos_lcd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/cmos_lcd.v|
+!i113 0
+R5
+Z13 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vcoordinate
+Z14 !s110 1703239291
+!i10b 1
+!s100 ldM8Uo4V0^WDcT6?2J8cY1
+IPiOne4:a75fKWGHb79ceh1
+R2
+R0
+w1703234157
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/coordinate.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/coordinate.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z15 !s108 1703239291.000000
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/coordinate.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/coordinate.v|
+!i113 0
+R5
+R6
+R7
+vdialate_disp
+R14
+!i10b 1
+!s100 Pl8^<3JToFXKgWo?;4_dd3
+I_4hPl;]z6agPoD:lP:df;1
+R2
+R0
+w1699679750
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/dialate_disp.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/dialate_disp.v
+L0 2
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/dialate_disp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/dialate_disp.v|
+!i113 0
+R5
+R6
+R7
+verode_disp
+R1
+!i10b 1
+!s100 b2_dAo<1liGCCMPZUF?H70
+IBLBnEEo7;GmPcQ7V0]2n<2
+R2
+R0
+w1699872322
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/erode_disp.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/erode_disp.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/erode_disp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/erode_disp.v|
+!i113 0
+R5
+R6
+R7
+verror
+R14
+!i10b 1
+!s100 R67n57FH8GH2zHPFQ::L62
+IH?:13bVK7fXLzTjfH9W``2
+R2
+R0
+w1703236617
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/error.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/error.v
+L0 1
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/error.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/error.v|
+!i113 0
+R5
+Z16 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vi2c_dri
+R8
+!i10b 1
+!s100 I<5IBHQ0K4XG8z?fGWTj@1
+I67L>SoKXBAECRYQ`jT0S_2
+R2
+R0
+w1700228011
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/i2c_dri.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/i2c_dri.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/i2c_dri.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/i2c_dri.v|
+!i113 0
+R5
+Z17 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vimage_top
+R1
+!i10b 1
+!s100 5HQIeB:cAoeVQl=J_aGaz2
+I`COmWdVeDDgJa@=6Z@JCJ1
+R2
+R0
+R11
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/image_top.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/image_top.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/image_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/image_top.v|
+!i113 0
+R5
+R6
+R7
+vincre_value
+Z18 !s110 1703239292
+!i10b 1
+!s100 IEzzSmbFj9em11k=`GSKB0
+I6f3C7gf=10Uh[mknGlO`X3
+R2
+R0
+Z19 w1703236885
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/incre_value.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/incre_value.v
+Z20 L0 21
+R3
+r1
+!s85 0
+31
+Z21 !s108 1703239292.000000
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/incre_value.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/incre_value.v|
+!i113 0
+R5
+R16
+R7
+vkey
+Z22 !s110 1703239288
+!i10b 1
+!s100 ij`=z;zcab0]=4BReWa353
+IG`POONO5X?WDz3ZmcULV^0
+R2
+R0
+w1700228344
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/key.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/key.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/key.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/key.v|
+!i113 0
+R5
+R13
+R7
+vlcd_driver
+R8
+!i10b 1
+!s100 gPQhlIe3[iFRg07Co=gK62
+IBQ5_2X9g>1M0YEk?SGKV=2
+R2
+R0
+w1700392488
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_driver.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_driver.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_driver.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_driver.v|
+!i113 0
+R5
+R10
+R7
+vlcd_rgb_top
+R22
+!i10b 1
+!s100 P=4BelUdA1C<0G_d`jQ;O2
+IW0c5n19ELYh]<@`H46QDG3
+R2
+R0
+w1703156796
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_rgb_top.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_rgb_top.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_rgb_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/lcd_rgb_top.v|
+!i113 0
+R5
+R10
+R7
+vmatrix_3x3_16bit
+R14
+!i10b 1
+!s100 BdN9ojnACRU8Je?]X1LF41
+IjI4f[;6F:8fiDh;O^6:[G1
+R2
+R0
+w1699880578
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/matrix_3x3_16bit.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/matrix_3x3_16bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/matrix_3x3_16bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/matrix_3x3_16bit.v|
+!i113 0
+R5
+R6
+R7
+vov5640_cfg
+R8
+!i10b 1
+!s100 Zh9Y_neP_eQX0Z_n`a9A[2
+I`72Ma>>^57?7ccCKlYP<[2
+R2
+R0
+w1699373832
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_cfg.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_cfg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_cfg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_cfg.v|
+!i113 0
+R5
+R17
+R7
+vov5640_data
+R8
+!i10b 1
+!s100 663eFF95OlEY@4m5VRMW=0
+I02GEm9Fc?DH8n?PmCOR4N0
+R2
+R0
+w1699446540
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_data.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_data.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/ov5640_data.v|
+!i113 0
+R5
+R17
+R7
+vpicture_size
+R8
+!i10b 1
+!s100 ^:OA=?INX@7<XRnFg2k4_0
+I7V1d[QgVLB@Eb:0I;1EW=2
+R2
+R0
+w1698999448
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/picture_size.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/picture_size.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/picture_size.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/ov5640/picture_size.v|
+!i113 0
+R5
+R17
+R7
+vpid_top
+R18
+!i10b 1
+!s100 8N@NWEJX2mzFjSP:H5EOA1
+IlYIe]509kVBnUXZF=g3X=3
+R2
+R0
+R19
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_top.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_top.v
+R20
+R3
+r1
+!s85 0
+31
+R21
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_top.v|
+!i113 0
+R5
+R16
+R7
+vpid_value
+R14
+!i10b 1
+!s100 bf]B0m[1b8YHe>N54d;nA2
+IEh:][m^[dC`PgD7cXP?;A3
+R2
+R0
+w1703236504
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_value.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_value.v
+R20
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_value.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/pid/pid_value.v|
+!i113 0
+R5
+R16
+R7
+vpll
+R1
+!i10b 1
+!s100 G>dEj;nBLa_[@41VCe1_:0
+In3o1mOdfQHK;Z2@_LKXN<2
+R2
+R0
+w1700393650
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/pll.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/pll.v
+Z23 L0 39
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/pll.v|
+!i113 0
+R5
+Z24 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vpll_altpll
+R18
+!i10b 1
+!s100 Z[h0KD7L4H3_6C5oD7=DJ2
+IIF@091J=db6^Ej@n];TPC1
+R2
+R0
+w1700393654
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/db/pll_altpll.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/db/pll_altpll.v
+L0 30
+R3
+r1
+!s85 0
+31
+R21
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/db/pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/db|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/db/pll_altpll.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/db -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vrd_id
+R8
+!i10b 1
+!s100 NC;BTW0^zG4V;A9mU=AY03
+Ik_1Ea0gcm6E>Ae68P]4;53
+R2
+R0
+w1698999447
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/rd_id.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/rd_id.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/rd_id.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/lcd/rd_id.v|
+!i113 0
+R5
+R10
+R7
+vrdfifo
+R22
+!i10b 1
+!s100 mYn>dAGPMd6Phl=>[[_d@1
+I^`5Y`_R`o70fQ[AUz^ajm0
+R2
+R0
+Z25 w1601276926
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/rdfifo.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/rdfifo.v
+R23
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/rdfifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/rdfifo.v|
+!i113 0
+R5
+Z26 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vrs232
+R8
+!i10b 1
+!s100 WHijb8_Gj4f[QBd@][J4S0
+ICA_dG_[UM46I0XKL`A0n_2
+R2
+R0
+w1703228220
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/rs232.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/rs232.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/rs232.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/rs232.v|
+!i113 0
+R5
+Z27 !s92 -vlog01compat -work work +incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vsdram_cmd
+R18
+!i10b 1
+!s100 EAMeDA^;JOO:]c:QaQn021
+IXHS^Y_D<amOS`23g2za>k3
+R2
+R0
+Z28 w1700376273
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_cmd.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_cmd.v
+Z29 FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_para.v
+L0 1
+R3
+r1
+!s85 0
+31
+R21
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_para.v|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_cmd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_cmd.v|
+!i113 0
+R5
+R26
+R7
+vsdram_controller
+R22
+!i10b 1
+!s100 <hUWaOLIh^CW8Be``Q<[<1
+IhWK;MkD8Szz5XXeWaP9[d1
+R2
+R0
+R28
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_controller.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_controller.v|
+!i113 0
+R5
+R26
+R7
+vsdram_ctrl
+R18
+!i10b 1
+!s100 BX14`;@O>Ha;QgjZ0T>i60
+IR=cFR@AiRjzSKD7H2GYUB1
+R2
+R0
+R28
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_ctrl.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_ctrl.v
+R29
+L0 1
+R3
+r1
+!s85 0
+31
+R21
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_para.v|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_ctrl.v|
+!i113 0
+R5
+R26
+R7
+vsdram_data
+R18
+!i10b 1
+!s100 DD3^GeAPRR7:dQTnja8mX0
+IT@hD?X?X^Y>]VdcEjKE:=2
+R2
+R0
+w1700384403
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_data.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_data.v
+R29
+L0 1
+R3
+r1
+!s85 0
+31
+R21
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_para.v|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_data.v|
+!i113 0
+R5
+R26
+R7
+vsdram_fifo_ctrl
+R22
+!i10b 1
+!s100 ^0O<<ZRIh:JkQBM`687<X3
+IZ^[ZahXgngIc2Q@`2NQYD2
+R2
+R0
+R28
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_fifo_ctrl.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_fifo_ctrl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_fifo_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_fifo_ctrl.v|
+!i113 0
+R5
+R26
+R7
+vsdram_top
+R1
+!i10b 1
+!s100 :j;E4coE0dV`C1cWXKnn=3
+IW:YiV?ezKfzmSTDRG^Eli3
+R2
+R0
+w1700375426
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_top.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/sdram_top.v|
+!i113 0
+R5
+R26
+R7
+vservo_dri
+R1
+!i10b 1
+!s100 6Fg`AYjjJke8GROaRDeVa3
+I=hY70DoYd0eBWFHhZhL=32
+R2
+R0
+w1703239077
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/servo_dri.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/servo_dri.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/servo_dri.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/servo_dri.v|
+!i113 0
+R5
+R13
+R7
+vshift_ip
+R14
+!i10b 1
+!s100 BgZo`eK5XeQ[EL=n<KHbS3
+I=@nkZZR>DBR:IK8KR9EXS3
+R2
+R0
+w1699092069
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/shift_ip.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/shift_ip.v
+R23
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/shift_ip.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/quartus_prj/ipcore/shift_ip.v|
+!i113 0
+R5
+R24
+R7
+vuart_rx
+R8
+!i10b 1
+!s100 ;`mR9TF`N2cOcncHkPHT01
+I>5;n9ebSJ2g=ZbidM6<JN1
+R2
+R0
+w1703138841
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_rx.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_rx.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_rx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_rx.v|
+!i113 0
+R5
+R27
+R7
+vuart_tx
+R8
+!i10b 1
+!s100 [[EKHPooVfNlMY2[Fndja3
+I128C<LUDmV3g:Vea49_`n2
+R2
+R0
+w1703138842
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_tx.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_tx.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_tx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/uart/uart_tx.v|
+!i113 0
+R5
+R27
+R7
+vwrfifo
+R22
+!i10b 1
+!s100 BAPUk^]O:13mfgbJN0TUi0
+I`Nk^kRKLKFTk<1gP3^`ED3
+R2
+R0
+R25
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/wrfifo.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/wrfifo.v
+R23
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/wrfifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/sdram/wrfifo.v|
+!i113 0
+R5
+R26
+R7
+vycbcr_disp
+R1
+!i10b 1
+!s100 dA[_>VBlT]G>W[5DzRZTO3
+I_1>?IX:4PoOJHdZ5edMVf2
+R2
+R0
+w1699867434
+8D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/ycbcr_disp.v
+FD:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/ycbcr_disp.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/ycbcr_disp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image|D:/WorkSpace/FPGA_Projects/ov5640_find_ball_plus/rtl/image/ycbcr_disp.v|
+!i113 0
+R5
+R6
+R7

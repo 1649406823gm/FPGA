@@ -1,0 +1,28 @@
+
+State Machine - |cmos_lcd|bluetooth:bluetooth_inst|dot_flag
+Name dot_flag.010 dot_flag.000 dot_flag.100 dot_flag.011 
+dot_flag.000 0 0 0 0 
+dot_flag.010 1 1 0 0 
+dot_flag.011 0 1 0 1 
+dot_flag.100 0 1 1 0 
+
+State Machine - |cmos_lcd|bluetooth:bluetooth_inst|state
+Name state.Send_Data6 state.Send_Data5 state.Send_Data4 state.Send_Data3 state.Send_Data2 state.Send_Data1 state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 
+state.Send_Data1 0 0 0 0 0 1 1 
+state.Send_Data2 0 0 0 0 1 0 1 
+state.Send_Data3 0 0 0 1 0 0 1 
+state.Send_Data4 0 0 1 0 0 0 1 
+state.Send_Data5 0 1 0 0 0 0 1 
+state.Send_Data6 1 0 0 0 0 0 1 
+
+State Machine - |cmos_lcd|i2c_dri:i2c_dri_inst|cur_state
+Name cur_state.st_stop cur_state.st_data_rd cur_state.st_addr_rd cur_state.st_data_wr cur_state.st_addr8 cur_state.st_addr16 cur_state.st_sladdr cur_state.st_idle 
+cur_state.st_idle 0 0 0 0 0 0 0 0 
+cur_state.st_sladdr 0 0 0 0 0 0 1 1 
+cur_state.st_addr16 0 0 0 0 0 1 0 1 
+cur_state.st_addr8 0 0 0 0 1 0 0 1 
+cur_state.st_data_wr 0 0 0 1 0 0 0 1 
+cur_state.st_addr_rd 0 0 1 0 0 0 0 1 
+cur_state.st_data_rd 0 1 0 0 0 0 0 1 
+cur_state.st_stop 1 0 0 0 0 0 0 1 
